@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Your-GitHub-Handle/Your-Repo-Name.git"
+    "url": "git://github.com/jeremysbrain/ActionsLab.git"
   },
   "author": "Jonathan Clem <jclem@github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Your-GitHub-Handle/Your-Repo-Name/issues"
+    "url": "https://github.com/jeremysbrain/ActionsLab/issues"
   },
-  "homepage": "https://github.com/Your-GitHub-Handle/Your-Repo-Name#readme",
+  "homepage": "https://github.com/jeremysbrain/ActionsLab#readme",
   "devDependencies": {
     "jest": "^24.8.0",
     "chai": "^3.5.0",
